@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apps Without Ads</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Apps Without Ads</h1>
+    </header>
+    <main>      
+        <section>
+            
+<p>
+
+<h3>How old is my cat</h3>
+
+<div class="scrolling">
+  <img src="images/how_old_is_my_cat/image01.jpg" alt=""/>
+  <img src="images/how_old_is_my_cat/image02.jpg" alt=""/>
+  <img src="images/how_old_is_my_cat/image03.jpg" alt=""/>
+</div>
+                
+	<p>
+		This is a simple App, where you can add your cats, specify their date of birth, their name and photo. On the main page will be displayed their actual age and their age converted to human years.
+		<p>
+			<center>
+				<img src="images/GetItOnGooglePlay_Badge.png">
+			</center>
+		</p>
+	</p>
+</p>
+            
+            
+<h3>Simply Notes</h3>
+<div class="scrolling">
+  <img src="images/simply_notes/image01.jpg" alt=""/>
+  <img src="images/simply_notes/image02.jpg" alt=""/>
+  <img src="images/simply_notes/image03.jpg" alt=""/>
+</div>
+
+<p>
+	A simple, minimalist App, that allows you to create text notes. The app is not overloaded with additional features and contains nothing unnecessary. Its goal is to provide you with the ability to write down something important. All notes are sorted by the date they were added.   
+	<p>
+		<center>
+			<img src="images/GetItOnGooglePlay_Badge.png">
+		</center>
+	</p>            
+</p>
+
+</section>
+        
+        
+<section>
+  <h3>About Me</h3>
+   Hello everyone. I develop software in my free time, and I'm really tired of free programs that are overloaded with ads. That's why I want to create small free apps with absolutely no ads. But if you're able to support me, you can buy me a coffee :)
+    
+
+    <p>
+		<center>
+			<a href='https://ko-fi.com/Q5Q312L9X5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+			</a>
+		</center>
+	</p>
+    
+    
+</section>                     
+                
+        
+    </main>
+    <footer>
+        <p>© 2023 My Website</p>
+    </footer>
+</body>
+</html>

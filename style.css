@@ -7,10 +7,12 @@ body {
     max-width: 800px;
     margin-top: 0px;
     background-color: #bbbbbb;
+    border: 1px solid;
 }
 
 header {
     background-color: #333;
+    border-bottom: 1px solid;
     color: white;
     text-align: center;
     padding: 0px;
@@ -20,7 +22,8 @@ header {
 }
 
 footer {
-    background-color: #333;
+    border-top: 1px solid;
+    background-color: #11345e;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -47,12 +50,17 @@ p{
 }
 
 h2,h3,h4,h5 {
+    font-weight: 400;
     background-color: #323d51;
+    border: 1px solid;
+    border-radius: 10px;
     padding: 10px;
     color: #ffffff;
     background: url('images/title_background.png');
     background-size: auto;
 }
+
+
 
 .scrolling {
  margin: 0 auto;

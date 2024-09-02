@@ -5,15 +5,21 @@ body {
     margin-left:auto;
     margin-right:auto;
     max-width: 800px;
+    margin-top: 0px;
     background-color: #bbbbbb;
 }
 
 header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
     background: url('images/header_background.png') no-repeat top center ;
     height: 220px;
 }
 
-header, footer {
+footer {
     background-color: #333;
     color: white;
     text-align: center;
@@ -44,6 +50,8 @@ h2,h3,h4,h5 {
     background-color: #323d51;
     padding: 10px;
     color: #ffffff;
+    background: url('images/title_background.png');
+    background-size: auto;
 }
 
 .scrolling {
